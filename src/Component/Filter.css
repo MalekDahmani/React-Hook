@@ -1,0 +1,41 @@
+
+#searchInput{
+    
+    width: 40% !important;
+    position: relative;
+    left: 450px;
+    top: 17px;
+   }
+
+ 
+
+
+#searchNav {
+    
+    display: inline-block;
+    width: 60% !important;
+    vertical-align: middle;
+    position: relative;
+    left: 400px;
+   
+    
+
+}
+#Addbtn{
+    margin-left: 50px;
+}
+.navMenu{
+    margin-left: 140px;
+    background-color: #FFCB42;
+    position: fixed;
+    top: 0;
+    width: 87%;
+    z-index: 5;
+    
+    
+}
+
+.mr-auto a{
+    color: #277BC0;
+    font-weight: 600;
+}
