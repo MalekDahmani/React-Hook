@@ -1,43 +1,4 @@
 
-// import 'bootstrap/dist/css/bootstrap.css'
-
-// import MovieCard from './Component/MovieCard';
-// import MovieList from './Component/MovieList';
-// import "bootstrap/dist/css/bootstrap.min.css";
-
-
-// function App() {
-
-//   const myMovies=[
-
-//     {title:"Matrix" ,
-//     description:"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
-//      rating:"9" ,
-//      posterURL:"https://cdn.shopify.com/s/files/1/0057/3728/3618/products/ed4796ac6feff9d2a6115406f964c928_6b200bda-fe71-4900-ad7f-903cdda50dab_480x.progressive.jpg?v=1573587596"},
-//     {
-//       title:"Lord Of The Rings",
-//       description:"Three sixth grade boys ditch school and embark on an epic journey while carrying accidentally stolen drugs, being hunted by teenage girls, and trying to make their way home in time for their first kissing party.",
-//       rating:"8.5",
-//       posterURL:"https://cdn.shopify.com/s/files/1/0057/3728/3618/products/ff72dccba2638b7aa656f55c282027cd_9b5a016a-d3ea-4c8d-9a79-69a06c0a4b39_480x.progressive.jpg?v=1573651493"
-//     },
-//     {
-//       title:"Pirates Of The Caribbean",
-//        description:"When a street urchin finds a lamp with a genie inside, he uses the lamp to turn himself into a prince in order to win the heart of a beautiful princess. But an evil vizier is after the lamp too.", rating:"9.5" ,
-//        posterURL:"https://cdn.shopify.com/s/files/1/0057/3728/3618/products/c9d5fb11c495e731413c16f8ad6838e0_adc81f87-ccdf-4f98-8b7f-cdaa8884f515_480x.progressive.jpg?v=1573585499"
-//     }
-      
-//   ]
-//   return (
-//     <div className="App">
-//       <MovieCard/>
-      
-      
-      
-//     </div>
-//   );
-// }
-
-// export default App;
 
 import React,{ useState } from "react";
 import "./App.css";
